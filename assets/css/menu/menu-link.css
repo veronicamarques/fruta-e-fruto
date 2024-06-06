@@ -1,0 +1,17 @@
+.menu__item > a:hover{
+  color: #313131;
+  cursor: pointer;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.ativo{
+  color: #313131;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.menu__item > a{
+  color: #8C8888;
+  text-decoration: none;
+}

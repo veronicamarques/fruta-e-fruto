@@ -1,0 +1,11 @@
+.menu__lista{
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu__lista{
+  font-weight: 400;
+  gap: 1.8em;
+  list-style-type: none;
+}
